@@ -1,6 +1,13 @@
-numpy>=1.24
-matplotlib>=3.5
-scipy>=1.9
-scikit-learn>=1.0
+# Üretken Yapay Zeka — Bağımlılıklar
+# NumPy 2.0+ gereklidir (np.trapezoid desteği için)
+numpy>=2.0
+matplotlib>=3.7
+scipy>=1.11
+scikit-learn>=1.3
 jupyter>=1.0
 ipykernel>=6.0
+
+# Ders 3+ için gerekli (VAE · GAN · GMMN · Difüzyon · Transformer)
+torch>=2.0
+torchvision>=0.15
+tqdm>=4.65
