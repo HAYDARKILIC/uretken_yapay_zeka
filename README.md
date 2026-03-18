@@ -1,6 +1,6 @@
-# 🤖 Üretken Yapay Zeka — Ders Notları ve Uygulamalı Notebook'lar
+# 🤖 Üretken Yapay Zeka 
 
-**Haydar Kılıç | Mühendislik Fakültesi, Yapay Zeka Mühendisliği**
+**Haydar Kılıç |  Yapay Zeka Mühendisliği**
 
 Bu repo, *Üretken Yapay Zeka* dersinin teorik slayt içeriklerini Python ile pekiştiren Jupyter Notebook'larını barındırmaktadır. Her notebook, derste işlenen formülleri sıfırdan türeterek görselleştirir ve gerçek veri senaryolarına uyarlar.
 
@@ -260,6 +260,21 @@ uretken-yapay-zeka/
 ├── UYZ_Ders4_Notebook.ipynb   # Ders 4 — Transformer · Attention · Mini GPT · LLM
 └── (ilerleyen derslere ait notebook'lar eklenecek)
 ```
+## 📖 Kaynak Kitap
+
+Pattern Recognition and Machine Learning – Christopher M. Bishop (1st Ed., 2006), Ch. 1–2
+
+Machine Learning: A Probabilistic Perspective – Kevin P. Murphy (1st Ed., 2012), Ch. 3
+
+Deep Learning – Goodfellow, Bengio, Courville (1st Ed., 2016), Ch. 20.10.3
+
+Deep Learning – Goodfellow, Bengio, Courville (1st Ed., 2016), Ch. 20.10.4
+
+Probabilistic Machine Learning: Advanced Topics – Kevin P. Murphy (1st Ed., 2023), Ch. 25
+
+Natural Language Processing with Transformers – Lewis et al. (1st Ed., 2022), Ch. 1–2
+
+Speech and Language Processing – Jurafsky & Martin (3rd Ed., draft), Ch. 3, 10, 11
 
 ---
 
