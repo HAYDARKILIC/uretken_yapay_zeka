@@ -1,8 +1,6 @@
-# 🤖 Üretken Yapay Zeka 
+# Üretken Yapay Zeka 
 
-**Haydar Kılıç |  Yapay Zeka Mühendisliği**
-
-Bu repo, *Üretken Yapay Zeka* dersinin teorik slayt içeriklerini Python ile pekiştiren Jupyter Notebook'larını barındırmaktadır. Her notebook, derste işlenen formülleri sıfırdan türeterek görselleştirir ve gerçek veri senaryolarına uyarlar.
+Bu müfredat, modern yapay zekânın kalbi olan Üretken Yapay Zekâ (Generative AI) teknolojilerini hem istatistiksel temelleriyle hem de en güncel derin öğrenme mimarileriyle ele alan, tam anlamıyla bir "Senior GenAI Scientist" yetiştirme programı.
 
 ---
 
@@ -14,8 +12,6 @@ Bu repo, *Üretken Yapay Zeka* dersinin teorik slayt içeriklerini Python ile pe
 | Ders 2 | Üretken Modellerin Türetilmesi (MAP · MLE · Beta-Binom · Dirichlet) | [`UYZ_Ders2_Notebook.ipynb`] |
 | Ders 3 | Derin Üretken Modeller (VAE · GAN · GMMN · Difüzyon) | [`UYZ_Ders3_Notebook.ipynb`] |
 | Ders 4 | Transformer ve Büyük Dil Modelleri (Attention · RoPE · Mini GPT · Ölçekleme) | [`UYZ_Ders4_Notebook.ipynb`] |
-
-> Yeni dersler eklendikçe tablo güncellenecektir.
 
 ---
 
